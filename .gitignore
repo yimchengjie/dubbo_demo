@@ -1,7 +1,0 @@
-/.idea/*
-/common/target/*
-/consumer/target/*
-/provider/target/*
-.gitignore
-common/src/main/resources/
-common/src/test/
