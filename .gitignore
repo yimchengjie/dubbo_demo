@@ -1,0 +1,4 @@
+/.idea/*
+/common/target/*
+/consumer/target/*
+/provider/target/*
